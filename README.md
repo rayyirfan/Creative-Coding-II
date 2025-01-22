@@ -6,7 +6,7 @@ Welcome to my Repository for DATT3400 - Creative Coding II! This Repository cont
 
 To maintain clarity and organization, I have structured the Projects within separate Branches.  
 The Projects Branch contains all the homework assignments, including their respective datasets and code.  
-The Research-Development Branch contains my Research & Development Document Projects, including inspirations, coding experiments, and plans.
+The Research-Development Branch contains my Research & Development Document Projects, including inspirations and experiments.
 
 **How to Navigate**
 
@@ -15,7 +15,7 @@ Each Branch contains dedicated folders and files for specific Projects with desc
 
 **About This Repository**
 
-This Repository showcases my work in Creative Coding II, focusing on algorithmic thinking, generative art, and experimental coding techniques.  
+This Repository showcases my work in Creative Coding II, focusing on algorithmic thinking, generative art, and coding techniques.  
 Each Project explores creative approaches to coding, leveraging randomness, aesthetics, and interactivity.
 
 # 
