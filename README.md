@@ -17,6 +17,5 @@ Each branch contains dedicated folders and files for specific projects with prop
 
 This repository showcases my work in Creative Coding II, focusing on algorithmic thinking, generative art, and experimental coding techniques. Each project explores creative approaches to coding, leveraging randomness, aesthetics, and interactivity.
 
-**Rayyan Irfan**
-
-**220101895**
+Rayyan Irfan
+220101895
